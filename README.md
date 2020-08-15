@@ -2,6 +2,6 @@
 
 #### Hi there 👋
 
-> I am a engineer and now work in Huobi China
+> I am now working in Huobi China
 
 🔗 https://segmentfault.com/u/_raymond
